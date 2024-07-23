@@ -1,4 +1,3 @@
-<img src="https://www.shutterstock.com/image-photo/devops-concept-data-engineer-programmer-600nw-2346923703.jpg" style="width: 100%; max-width: 1000px;">
 <h1 align="center">Hi 👋, I'm Sravani Mandela</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
