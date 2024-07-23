@@ -1,7 +1,7 @@
 [![MasterHead][(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdevops-engineer&psig=AOvVaw1_RUMFACTZL31c8rsboN9a&ust=1721823362706000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDg8YCSvYcDFQAAAAAdAAAAABAE)]](https://www.shutterstock.com/image-photo/devops-concept-data-engineer-programmer-600nw-2346923703.jpg)
 <h1 align="center">Hi 👋, I'm Sravani Mandela</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanimandela&label=Profile%20views&color=0e75b6&style=flat" alt="sravanimandela" /> </p>
 
