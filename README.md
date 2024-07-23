@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<a href="https://medium.com/@0xSravs/deploying-wordpress-application-on-aws-56f9dda10a7c">
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
