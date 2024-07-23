@@ -1,7 +1,7 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXdoUklIdlNUdzlnc3dDaUVSZXB0NUhROUxBd3xBQ3Jtc0tsOWpYV1pPZ3dpWktSS3ZxVXRPbGkwT3ZkRGRrLXFWMVAxZE5NQWJzWWJaWnQxTHlqMUlCdk56cWt5aFRSUlZ6ZnpUSDh0THhuOFFFcXZNWGs3a3pWU3FLMXpEa1JHU0xOd3ZpNEl4VTBLVlpFT0tRUQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblZnLVpnZ0RCTURybWFkeGpQWndvbWF3aTNYd3xBQ3Jtc0trSC1oSndVeDhwWmdRNTBIY3I1aWQ1QU91UmlTUHA3eHZEbE81NzV4cnE3cVpnWUF1VDA2SW5FSWRhYXhjaGVSQ25lcVQtWDM1SmMtTXRNNUJaaVhNdkJ2b1dMRTE3U2lYS2lEYTRpQ2FvbVh4N3E1Zw&q=https%3A%2F%2Frishavchanda.io%2F&v=G-EGDH50hGE)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdevops-engineer&psig=AOvVaw1_RUMFACTZL31c8rsboN9a&ust=1721823362706000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDg8YCSvYcDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hi 👋, I'm Sravani Mandela</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
-img align="right" alt="Coding" width="400" src="[https://tenor.com/view/coding-girl-gif-2332171326726785246](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHlVRmlwMmlaYm9IMGdvQVFocS1vOHd6R29hd3xBQ3Jtc0ttNW04SGZwTFpSUkVDeHdaYUpuaWVjYjdTcGZwYUF4MHRhZjVXV0lrZGM3bElCenlIZ291RTlzRFJaYnl1NGhMTGZzM3Y0UkhfZDZSTXMtQ3dWVVdlZjA1Z3JqZVk5Z2dlOVdHT2NidkxkS2tORThwRQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)"
+img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanimandela&label=Profile%20views&color=0e75b6&style=flat" alt="sravanimandela" /> </p>
 
