@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at **Napier Healthcare**
 
-- 🌱 I’m currently learning **AWS-SAA**
+- 🌱 I'm currently deepening my knowledge of AWS services by pursuing the **AWS-SAA (Solutions Architect Associate) certification**
 
 - 💬 Ask me about **AWS, Docker, Terraform**
 
