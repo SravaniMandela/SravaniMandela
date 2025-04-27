@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sravani Mandela</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate AWS Devops Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravanimandela&label=Profile%20views&color=0e75b6&style=flat" alt="sravanimandela" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at **Napier Healthcare**
+- 🔭 I’m currently working at **Sutherland Global**
 
 - 🌱 I'm currently deepening my knowledge of AWS services by pursuing the **AWS-SAA (Solutions Architect Associate) certification**
 
-- 💬 Ask me about **AWS, Docker, Terraform**
+- 💬 Ask me about **AWS, Docker, Terraform, Kubernetes**
 
 - 📫 How to reach me **sravanimandela140@gmail.com**
 
